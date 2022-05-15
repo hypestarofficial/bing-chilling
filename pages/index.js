@@ -4,6 +4,7 @@ import Banner from '../components/banner/banner';
 import SectionCards from '../components/card/section-cards';
 
 import styles from '../styles/Home.module.css';
+
 import { getPopularVideos, getVideos } from '../lib/videos';
 
 export async function getServerSideProps() {
