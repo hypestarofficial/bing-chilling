@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gW444Zeg0CBolnyClft-HsqSZWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0010L2zCyiA"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-17T14:02:08Z",
+        "channelId": "UCTxYD92kxevI1I1-oITiQzg",
+        "title": "NEW TV SHOW TRAILERS of the WEEK #41 (2020)",
+        "description": "Check out all the amazing new TV trailers from the past week including the following titles from HBO, Starz, Disney+ and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0010L2zCyiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0010L2zCyiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0010L2zCyiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoBlo Streaming & TV Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-17T14:02:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q_1BeP5S9qRlV9lVkRml3bJUKoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PD-dvk4E0cs"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-01T17:00:12Z",
+        "channelId": "UCTxYD92kxevI1I1-oITiQzg",
+        "title": "TOP STREAMING AND TV TRAILERS of the WEEK #1 (2022)",
+        "description": "Check out all the amazing new STREAMING + TV trailers from the past week including the following titles from FX, HBO Max, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PD-dvk4E0cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PD-dvk4E0cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PD-dvk4E0cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoBlo Streaming & TV Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-01T17:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jIY-0ES-IIVQQ6xve4cJnFzCiAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jwF5DxUCJzs"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-24T15:30:15Z",
+        "channelId": "UCTxYD92kxevI1I1-oITiQzg",
+        "title": "TOP STREAMING AND TV TRAILERS of the WEEK #30 (2021)",
+        "description": "Check out all the amazing new STREAMING + TV trailers from the past week including the following titles from Hulu, Showtime, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jwF5DxUCJzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jwF5DxUCJzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwF5DxUCJzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoBlo Streaming & TV Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-24T15:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G_xfaOKpjxZYUIl1KXPhJ0Vwd5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CEzt9UYHZeM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-13T20:11:02Z",
+        "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+        "title": "Carpool Karaoke — Season 5 Official Trailer | Apple TV+",
+        "description": "Grab the keys and get in. Carpool Karaoke is headed to Apple TV+ on May 27 The stars sharing a car, singing along to their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CEzt9UYHZeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CEzt9UYHZeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CEzt9UYHZeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-13T20:11:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yAdaozzGDZ7Axb1qLfwN69T2ruw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G982GjpWZDU"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-12T18:00:19Z",
+        "channelId": "UCE5mQnNl8Q4H2qcv4ikaXeA",
+        "title": "The Orville: New Horizons | Trailer | Hulu",
+        "description": "Our return is imminent. #TheOrville New Horizons arrives June 2, only on Hulu. SUBSCRIBE TO HULU'S YOUTUBE CHANNEL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G982GjpWZDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G982GjpWZDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G982GjpWZDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hulu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-12T18:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LqoTVxy7tYA0Nb6niDI0JD_macE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2tb9ENbFWvQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-12T14:00:21Z",
+        "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "title": "Resident Evil | Official Teaser | Netflix",
+        "description": "Nothing eventful ever happens in the peaceful New Raccoon City. The legendary franchise Resident Evil brings its battle for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2tb9ENbFWvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2tb9ENbFWvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2tb9ENbFWvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Netflix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-12T14:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XBBR5Q4OOazyHvL8iPH09Ev4BsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QRyyagJ9GPo"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-12T13:59:50Z",
+        "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+        "title": "Cha Cha Real Smooth — Official Trailer | Apple TV+",
+        "description": "Fresh out of college and without a clear life path going forward, 22-year-old Andrew is stuck back at home with his family in New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QRyyagJ9GPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QRyyagJ9GPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QRyyagJ9GPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-12T13:59:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yDAc1xUmks-jA654B3o9mtkma1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8bjNCzXcky8"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-11T13:59:48Z",
+        "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+        "title": "Physical — Season 2 Official Trailer | Apple TV+",
+        "description": "The warm up is over. Get ready to sweat with Rose Byrne. Sheila is back and more committed than ever to building her empire.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8bjNCzXcky8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8bjNCzXcky8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8bjNCzXcky8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-11T13:59:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TjYCvQ-wLKGHhb6frpC4XbecIsU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mRgvtDsttic"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-16T17:45:07Z",
+        "channelId": "UCTxYD92kxevI1I1-oITiQzg",
+        "title": "TOP STREAMING AND TV TRAILERS of the WEEK #15 (2022)",
+        "description": "Check out all the amazing new STREAMING + TV trailers from the past week including the following titles from FX, HBO, Prime ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mRgvtDsttic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mRgvtDsttic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mRgvtDsttic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoBlo Streaming & TV Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-16T17:45:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BRA1mJbK_sS0LQTTMoexlJAZgx0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_DkvrwvKeZU"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-09T17:02:59Z",
+        "channelId": "UCrRttZIypNTA1Mrfwo745Sg",
+        "title": "Players | Official Trailer | Paramount+",
+        "description": "From the Peabody Award-winning creators of \"American Vandal,\" Tony Yacenda and Dan Perrault, PLAYERS is a comedic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_DkvrwvKeZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_DkvrwvKeZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DkvrwvKeZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paramount Plus",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-09T17:02:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AcVv2gb8clVv3AqvwmDvI4nJZNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dKCILxahpv4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-12T19:41:14Z",
+        "channelId": "UCz1GPotHecuLngiLuY739QQ",
+        "title": "The Orville: New Horizons Season 3 Trailer | Rotten Tomatoes TV",
+        "description": "Check out the new The Orville: New Horizons Season 3 Trailer starring Seth MacFarlane! Let us know what you think in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dKCILxahpv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dKCILxahpv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dKCILxahpv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rotten Tomatoes TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-12T19:41:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U8kOiw00g3re2Ha1TE9xDzUR330",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pDHqAj4eJcM"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-25T14:00:31Z",
+        "channelId": "UCz1GPotHecuLngiLuY739QQ",
+        "title": "From Season 1 Trailer | Rotten Tomatoes TV",
+        "description": "Check out the new From Season 1 Trailer starring Harold Perrineau! Let us know what you think in the comments below. ▻ Learn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDHqAj4eJcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDHqAj4eJcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDHqAj4eJcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rotten Tomatoes TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-25T14:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SEr-vPEHuz69zBZT3HYVcXMD8Tw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2HLdJnwYZ5Q"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-28T00:44:32Z",
+        "channelId": "UCTxYD92kxevI1I1-oITiQzg",
+        "title": "BEST UPCOMING STREAMING &amp; TV TRAILERS OF 2022!!",
+        "description": "Check out all the amazing STREAMING + TV trailers for series coming out in 2022!!! Including: STRANGER THINGS 4 THE BOOK ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2HLdJnwYZ5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2HLdJnwYZ5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2HLdJnwYZ5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoBlo Streaming & TV Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-28T00:44:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t1dCpEyrjYRhy4Ovz3A-Y0GtoHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jNOscURmTWE"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-26T15:49:37Z",
+        "channelId": "UCTxYD92kxevI1I1-oITiQzg",
+        "title": "TOP STREAMING AND TV TRAILERS of the WEEK #12 (2022)",
+        "description": "Check out all the amazing new STREAMING + TV trailers from the past week including the following titles from HBO, Disney+, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNOscURmTWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNOscURmTWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNOscURmTWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoBlo Streaming & TV Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-26T15:49:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hhCaQ0Lw2oZahebISZkqG5EYNtM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_-0MwZPWKD4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-10T14:30:30Z",
+        "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+        "title": "Westworld | Season 4 Official Teaser | HBO",
+        "description": "A perfect day is here. #Westworld Season 4 premieres Sunday, June 26 on @HBO and @HBOMax. ABOUT HBO HBO is home to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_-0MwZPWKD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_-0MwZPWKD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_-0MwZPWKD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HBO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-10T14:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ycm6Q4w1_kj7XzJ621lULa56Znk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Zv1-7viG0Oc"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-09T20:31:23Z",
+        "channelId": "UCz1GPotHecuLngiLuY739QQ",
+        "title": "Players Season 1 Trailer | Rotten Tomatoes TV",
+        "description": "Check out the new Players Season 1 Trailer starring Misha Brooks! Let us know what you think in the comments below. ▻ Learn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zv1-7viG0Oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zv1-7viG0Oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zv1-7viG0Oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rotten Tomatoes TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-09T20:31:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6tMce3tPUc7jSGo5ihiXG0ig554",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ehjTDjpi39s"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-05T17:00:19Z",
+        "channelId": "UCTxYD92kxevI1I1-oITiQzg",
+        "title": "TOP STREAMING AND TV TRAILERS of the WEEK #6 (2022)",
+        "description": "Check out all the amazing new STREAMING + TV trailers from the past week including the following titles from Peacock, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ehjTDjpi39s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ehjTDjpi39s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ehjTDjpi39s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoBlo Streaming & TV Trailers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-05T17:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VjtNazS1dAcz9rdBmK0hLArtaCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "numzJtJWT8c"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-10T15:00:03Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "Rise | Official Trailer | Disney+",
+        "description": "RISE, an all-new Original movie, streaming June 24 only on @DisneyPlus! Audiences have never seen a story like that of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/numzJtJWT8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/numzJtJWT8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/numzJtJWT8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-10T15:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EpA8A20vlx3aInQRZ5PBYjInusU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ig9BcW7gXvE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-11T15:59:40Z",
+        "channelId": "UCVTQuK2CaWaTgSsoNkn5AiQ",
+        "title": "We Own This City | Official Trailer | HBO",
+        "description": "\"We built this machine.” #WeOwnThisCity premieres April 25 on HBO Max. ABOUT HBO HBO is home to the shows and films that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ig9BcW7gXvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ig9BcW7gXvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ig9BcW7gXvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HBO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-11T15:59:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z3U-VCo1tdB4FRxwDLW1fwq9WHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W7rlZLw9m10"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-07T17:04:28Z",
+        "channelId": "UCE5mQnNl8Q4H2qcv4ikaXeA",
+        "title": "The Dropout | Trailer | Hulu",
+        "description": "Money. Romance. Tragedy. Deception. Hulu's limited series “The Dropout,” the story of Elizabeth Holmes (Amanda Seyfried) and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7rlZLw9m10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7rlZLw9m10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7rlZLw9m10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hulu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-07T17:04:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "prQVwKHnh2gK-SEp9oUV71ep7aA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g48NhGOUQbo"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-06T18:00:05Z",
+        "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "title": "God&#39;s Favorite Idiot | Official Trailer | Netflix",
+        "description": "In God's Favorite Idiot, Mid level Tech support employee Clark Thompson finds love with co-worker Amily Luck at exactly the same ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g48NhGOUQbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g48NhGOUQbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g48NhGOUQbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Netflix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-06T18:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6IwHBaqRMt8dXfoeUjjreGcsXwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NZEwlyPbTt4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-04T18:00:05Z",
+        "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "title": "Uncoupled | Official Teaser | Netflix",
+        "description": "Breakups suck, but single life doesn't have to. From the creator of Emily in Paris and Sex and the City, and the executive producer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZEwlyPbTt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZEwlyPbTt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZEwlyPbTt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Netflix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-04T18:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U26_OKkckT3IrrzMdPRlrPSU0OY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iwm0IO-NFRM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-09T15:00:12Z",
+        "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+        "title": "Father of the Bride | Official Trailer | HBO Max",
+        "description": "Billy (Andy Garcia) and Ingrid (Gloria Estefan) are surprised when their eldest daughter Sofia (Adria Arjona) comes home to Miami ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iwm0IO-NFRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iwm0IO-NFRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iwm0IO-NFRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HBO Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-09T15:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D9BJTQI_1GrJluDolqSJNum6o6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xEQP4VVuyrY"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-18T14:59:52Z",
+        "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+        "title": "Severance — Official Trailer | Apple TV+",
+        "description": "How far would you go to achieve a perfect work/life balance? Stream Severance now on Apple TV+ https://apple.co/_Severance ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xEQP4VVuyrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xEQP4VVuyrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xEQP4VVuyrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-18T14:59:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "klNFsGBh5ddwdvQBIJLl4lKS5m8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KU9X4Xyb8JE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-18T19:13:42Z",
+        "channelId": "UCz1GPotHecuLngiLuY739QQ",
+        "title": "Dark Winds Season 1 Trailer | Rotten Tomatoes TV",
+        "description": "Check out the new Dark Winds Season 1 Trailer starring ! Let us know what you think in the comments below. ▻ Learn more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KU9X4Xyb8JE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KU9X4Xyb8JE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KU9X4Xyb8JE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rotten Tomatoes TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-18T19:13:42Z"
+      }
+    }
+  ]
+}
